@@ -24,3 +24,9 @@ Website ini dibuat untuk memenuhi tugas mata kuliah Pengembangan Aplikasi Berbas
 
 ## Cara Menjalankan
 Buka file `index.html` menggunakan browser untuk melihat website.
+
+## Video Wisata
+
+Video dokumentasi Taman Keliling Dunia Majalengka.
+
+[Tonton Video Wisata](https://drive.google.com/file/d/1_Fi9rU-LiVAt-VFogzHusYOpBpg25O7C/view?usp=sharing)
