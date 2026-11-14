@@ -1,10 +1,6 @@
 # 🛒 E-Commerce Discount Calculator
 
-Sistem Pengelolaan & Perhitungan Transaksi Penjualan Berbasis Web. Tugas ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Web.
-
 ## 📌 Fitur Utama
-- **Perhitungan Diskon Otomatis**: Menghitung besaran diskon berdasarkan total belanja (10% untuk belanja $\ge$ Rp 100.000, 5% untuk Rp 50.000 - Rp 99.999, dan 0% untuk di bawah Rp 50.000).
-- **Integrasi Database**: Setiap transaksi yang dihitung akan otomatis tersimpan ke dalam database MySQL (XAMPP).
 - **Log Riwayat Transaksi**: Menampilkan daftar tabel riwayat transaksi yang pernah dilakukan secara real-time.
 
 ## 🖼️ Tampilan Antarmuka (Screenshot)
@@ -19,3 +15,9 @@ Sistem Pengelolaan & Perhitungan Transaksi Penjualan Berbasis Web. Tugas ini dib
 - **PHP** (Server-side Programming)
 - **MySQL / XAMPP** (Database)
 - **HTML5 & CSS3** (Styling & Layout)
+
+---
+
+## 🔗 Link Repository & Folder Tugas
+Kamu bisa mengakses langsung file dan folder kode program ini melalui tautan berikut:
+- **Folder Tugas:** [🔗 Lihat Folder Tugas Pertemuan 6-8 di GitHub](https://github.com/univmajalengka/2514101044/tree/main/PAWB/Tugas%20Pertemuan%206-8)
